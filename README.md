@@ -16,6 +16,7 @@ and Referenced data from the Kenya Vision 2030.
 2. The installed capacity of Geothermal, Wind, and Solar has been increasing over the years with Geothermal having the most installed capacity as of 2023 at 891.80 MW, a 6.04% decrease from the installed capacity preveiously (949.10 MW).
 
 The Hydro generation has the second largest installed capacity of 826.23 MW as of 2023. 
+
 3. According to the Kenya Vision 2030, the country aims at 5,530MW of installed geothermal capcity making it the main source of renewable energy in the country covering 51% of total installed capacity of renewables. Currently the Geothermal installed capacity is at 891.80 MW which is 6.2 times lower that the aimed capacity in the next 6 years. 
 
 **<ins> Tools used <ins/>**

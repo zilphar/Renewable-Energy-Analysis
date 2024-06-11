@@ -5,6 +5,8 @@ This is an analysis carried out to determine the trend of the % share of electri
 For the analysis I used data from the Owid energy: https://ourworldindata.org/renewable-energy  
 and Referenced data from the Kenya Vision 2030. 
 
+Here is a link to the published report: https://app.powerbi.com/groups/me/reports/3379e047-b02d-4023-9d79-39319b8c5950/ReportSection9ad92365c5cfa49fb72f?experience=power-bi 
+
 **<ins>Questions to Answer <ins/>**
 
 1. What is the general trend of % share of electricity generated from renewable sources throughout the years to 2023?

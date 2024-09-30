@@ -1,4 +1,4 @@
-# Renewable-Energy-Analysis
+# 1. Renewable-Energy-Analysis
 **<ins> Introduction<ins/>**
 
 This is an analysis carried out to determine the trend of the % share of electricity that comes from renewable energy in Kenya, the installed capacity of Geothermal, Wind, and Solar plants overtime, and the stand of installed capacity as of 2023 for Geothermal, wind, solar, and hydro. 

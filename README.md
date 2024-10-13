@@ -1,4 +1,4 @@
-# 1. Renewable-Energy-Analysis
+# Renewable-Energy-Analysis
 **<ins> Introduction<ins/>**
 
 This is an analysis carried out to determine the trend of the % share of electricity that comes from renewable energy in Kenya, the installed capacity of Geothermal, Wind, and Solar plants overtime, and the stand of installed capacity as of 2023 for Geothermal, wind, solar, and hydro. 
@@ -20,3 +20,5 @@ and Referenced data from the Kenya Vision 2030.
 **<ins> Tools used <ins/>**
 
 Power BI. 
+
+A link to the pulished report: https://app.powerbi.com/groups/me/reports/3379e047-b02d-4023-9d79-39319b8c5950/ReportSection9ad92365c5cfa49fb72f?experience=power-bi
